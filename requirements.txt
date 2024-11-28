@@ -1,0 +1,5 @@
+streamlit
+pyautogen
+groq
+python-dotenv
+fpdf

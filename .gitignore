@@ -1,0 +1,7 @@
+/.cache
+/.env
+/app_20241128.log
+/outputs
+/prompts_20241128_144806.json
+/prompts_20241128_150123.json
+/source.ipynb.js
