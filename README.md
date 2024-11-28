@@ -1,6 +1,21 @@
-# Architecture Design Assistant
+# Expert Design Assistant
 
-A Streamlit application that helps design architecture solutions using AI agents using Groq's LLM API.
+A Streamlit application that helps design solutions using AI agents using Groq's LLM API.
+
+# code
+https://github.com/pleabargain/autogen-streamlit
+
+#bugs
+1. saving as md and pdf is not working :(
+
+# TODO
+1. fix saving as md and pdf
+2. add more experts
+3. add more prompts
+4. import the prompts into the application
+5. ?
+6. Profit!
+
 
 ## Prerequisites
 
